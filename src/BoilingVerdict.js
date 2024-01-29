@@ -6,4 +6,5 @@ function BoilingVerdict(props)
     }
     return <p>물이 끓지 않습니다.</p>
 }
+
 export default BoilingVerdict;
