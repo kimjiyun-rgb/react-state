@@ -20,4 +20,5 @@ function TemperatureInput(props)
         </fieldset>
     );
 }
+
 export default TemperatureInput;
